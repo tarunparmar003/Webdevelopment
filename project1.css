@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+}
+
+h1{
+    font-size: 100px;
+    text-align: center;
+    color: aliceblue;
+    text-shadow: 3px 3px 7px aliceblue; 
+    opacity: 40%;
+    padding-bottom: 20px;
+   
+}
+.section1{
+    background-image: url(appleproductunsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 20%;
+   
+}
+p{
+    margin: 10;
+    font-size: x-large;
+    text-align: justify;
+    color: aliceblue;
+    background-color: rgb(20, 20, 20);
+    padding-bottom: 20px    ;
+    
+}
+.appleh1{
+    background-color: rgb(20, 20, 20);
+    color: aliceblue;
+    font-size: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.samsungh2{
+    background-color: rgb(20, 20, 20);
+    color: aliceblue;
+    font-size: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.section3{
+    background-image: url(samsungunsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 20%;
+}
+.section4{
+    background-image: url(googlrproducts.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 20%;
+}
+.google3{
+    background-color: rgb(20, 20, 20);
+    color: aliceblue;
+    font-size: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
